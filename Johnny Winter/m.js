@@ -1,0 +1,11 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 I'm Yours and I'm Hers.mp3";		
+f[2]	= "02 Be Careful with a Fool.mp3";		
+f[3]	= "03 Dallas.mp3";		
+f[4]	= "04 Mean Mistreater.mp3";		
+f[5]	= "05 Leland Mississippi Blues.mp3";		
+f[6]	= "06 Good Morning Little Schoolgirl.mp3";		
+f[7]	= "07 When You Got a Good Friend.mp3";		
+f[8]	= "08 I'll Drown in My Tears.mp3";		
+f[9]	= "09 Back Door Friend.mp3";		
